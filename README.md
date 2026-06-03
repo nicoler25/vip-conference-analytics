@@ -26,11 +26,12 @@ Conference organizers need accurate attendee, reservation, RSVP, and relationshi
 
 ## Dataset Overview
 
-Table	Description
-vips	VIP attendee details, assigned events, association type, membership year, and peer feedback relationships
-reservations	Hotel reservation details and RSVP status
-events	Conference event names and event types
-hotels	Hotel names and address information
+This project uses four relational tables:
+
+* vips — VIP attendee details, assigned events, association type, membership year, and peer feedback relationships
+* reservations — Hotel reservation details and RSVP status
+* events — Conference event names and event types
+* hotels — Hotel names and address information
 
 Dataset includes: 30 VIP members, 30 reservation records, 12 events, and 3 hotels.
 
