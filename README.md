@@ -1,4 +1,4 @@
-## VIP Conference Analytics | SQL Joins & Subqueries Case Study
+# VIP Conference Analytics | SQL Joins & Subqueries Case Study
 
 ## Executive Summary
 
